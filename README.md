@@ -6,7 +6,7 @@ A repository of prompts for AI in .txt format
 A free library of AI prompt files for planning any project.
 
 ## Get Started
-Read the **["What and How"](https://drive.google.com/uc?export=download&id=17IwJMlsZlz7TaTiXdC4L8Z1ctPDWFhu1)** guide to understand how to use these files.
+Read the **["What and How"](https://drive.google.com/file/d/17IwJMlsZlz7TaTiXdC4L8Z1ctPDWFhu1/view?usp=sharing)** guide to understand how to use these files.
 
 ## Available Prompts
 *   **Fiction Writer Configurator:** [Download Prompt](https://drive.google.com/uc?export=download&id=1_lZ_Q-3TGS4aC192x50D1YwUmNu31LCN) | [Read Description (ReadMe)](https://drive.google.com/file/d/1nPANbPpVTiDoD4_AIz9pHA2b-mK6VPWk/view?usp=sharing)
