@@ -15,3 +15,9 @@ Read the **["What and How"](https://drive.google.com/file/d/17IwJMlsZlz7TaTiXdC4
 
 ## Want to contribute?
 [Read the guide](https://drive.google.com/file/d/17IwJMlsZlz7TaTiXdC4L8Z1ctPDWFhu1/view?usp=sharing) for how to submit your own prompts!
+
+## 🤝 How to Contribute
+
+We're building a community of sharers! **You are welcome to submit your own prompts.**
+
+[**Submit Your Prompt Using Our Form Here**](/contribute/)
