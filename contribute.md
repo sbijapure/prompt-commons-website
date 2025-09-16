@@ -11,4 +11,4 @@ By submitting, you agree to release your prompt under the [CC0 Public Domain Ded
 
 ---
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdc13_XT2Dpu7OZSMDMe0L3gaTNdOkaoJ7lCqMRR5SH1__h6Q/viewform?embedded=true" width="100%" height="1200" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdc13_XT2Dpu7OZSMDMe0L3gaTNdOkaoJ7lCqMRR5SH1__h6Q/viewform?embedded=true" width="100%" height="1200" frameborder="2" marginheight="2" marginwidth="2">Loading…</iframe>
