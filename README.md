@@ -20,4 +20,4 @@ Read the **["What and How"](https://drive.google.com/file/d/17IwJMlsZlz7TaTiXdC4
 
 We're building a community of sharers! **You are welcome to submit your own prompts.**
 
-[Submit Your Prompt Using Our Form Here](/prompt-commons-website/contribute/)
+[Submit Your Prompt Using Our Form Here](sbijapure/prompt-commons-website/contribute/)
