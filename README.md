@@ -12,6 +12,8 @@ Read the **["What and How"](https://drive.google.com/file/d/17IwJMlsZlz7TaTiXdC4
 *   **Fiction Writer Configurator:** [Download Prompt](https://drive.google.com/uc?export=download&id=1_lZ_Q-3TGS4aC192x50D1YwUmNu31LCN) | [Read Description (ReadMe)](https://drive.google.com/file/d/1nPANbPpVTiDoD4_AIz9pHA2b-mK6VPWk/view?usp=sharing)
 *   **Website Builder Configurator:** [Download Prompt](https://drive.google.com/uc?export=download&id=1wSkAj20iDUDu51omzp4kjJDH-vwFWxoG) | [Read Description (ReadMe)](https://drive.google.com/file/d/1LVWhoBoGvF712kMVPOvnf5PuiG24zOf1/view?usp=sharing)
 *   **Digital Artist Style Guide:** [Download Prompt](https://drive.google.com/uc?export=download&id=1vBvGXyfPVt4BRThzsPbpHNV7ge0wUXnb) | [Read Description (ReadMe)](https://drive.google.com/file/d/1X8GYX0U_yijOTvL2ngkaJaVp0I8S8KYR/view?usp=sharing)
+*   **Nonfiction Writer         :** [Download Prompt](https://drive.google.com/uc?export=download&id=1LjchachVRDE2qifJo--zo90qsT19Ok14) | [Read Description (ReadMe)](https://drive.google.com/file/d/1zahb01Qp1yTgaKf3ImE1ciy3GvSH_wy5/view?usp=sharing)
+   
 
 ## Want to contribute?
 [Read the guide](https://drive.google.com/file/d/17IwJMlsZlz7TaTiXdC4L8Z1ctPDWFhu1/view?usp=sharing) for how to submit your own prompts!
