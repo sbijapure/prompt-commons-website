@@ -1,8 +1,3 @@
 title: The Prompt Commons
-description: Free AI Configurators for Everyone
+description: A free library of AI prompt files for planning any project.
 theme: jekyll-theme-cayman
-# Add these new lines below for color customization
-cayman:
-  background_color: "#e9ecef"  # A light gray for the overall page background
-  header_background_color: "#8B0000"  # A deep red for the header. Change to any color you like.
-  header_text_color: "#ffffff"  # White text for the header to contrast the dark background
