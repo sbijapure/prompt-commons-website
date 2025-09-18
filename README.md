@@ -1,17 +1,3 @@
-<style>
-  .main-content {
-    background-color: #f8f9fa !important; /* Your chosen light gray */
-    padding: 2rem 4rem !important;
-    border-radius: 8px; /* Optional: adds slightly rounded corners for a modern feel */
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* Optional: a subtle shadow for depth */
-  }
-  body {
-    background-color: #e9ecef !important; /* A slightly darker gray for the page border */
-  }
-</style>
-
-<div class="main-content">
-
 # prompt-commons-website
 A repository of prompts for AI in .txt format
 
@@ -41,4 +27,3 @@ We're building a community of sharers! **You are welcome to submit your own prom
 
 [Submit Your Prompt Using Our Form Here](https://sbijapure.github.io/prompt-commons-website/contribute/)
 
-</div>
