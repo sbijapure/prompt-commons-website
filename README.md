@@ -5,6 +5,12 @@ A repository of prompts for AI in .txt format
 
 A free library of AI prompt files for planning any project.
 
+**Plan complex projects in minutes, not hours.**
+
+We provide the specialized AI instructions; you provide the vision. Our free prompt files turn your AI into a structured consultant, helping you build websites, write novels, design art, and launch podcasts through an intuitive, step-by-step dialogue.
+
+[**Submit Your Own Prompt**](/prompt-commons-website/contribute/)
+
 ## Get Started
 Read the **["What and How"](https://drive.google.com/file/d/17IwJMlsZlz7TaTiXdC4L8Z1ctPDWFhu1/view?usp=sharing)** guide to understand how to use these files.
 
