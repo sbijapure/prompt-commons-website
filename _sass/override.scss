@@ -1,0 +1,15 @@
+// Override the default Cayman theme background
+.page-header {
+    background-color: #f8f9fa !important; // Light gray for the header
+    color: #333; // Darker text for contrast
+}
+
+.main-content {
+    background-color: #ffffff !important; // Keeps the main content area white
+    border: 1px solid #dee2e6; // Adds a subtle border
+    border-radius: 5px; // Softens the edges
+}
+
+body {
+    background-color: #e9ecef !important; // A neutral off-white for the page body
+}
