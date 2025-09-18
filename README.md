@@ -5,7 +5,7 @@ A repository of prompts for AI in .txt format
 
 A free library of AI prompt files for planning any project.
 
-**Plan complex projects in minutes, not hours.**
+***Plan complex projects in minutes, not hours.***
 
 We provide the specialized AI instructions; you provide the vision. Our free prompt files turn your AI into a structured consultant, helping you build websites, write novels, design art, and launch podcasts through an intuitive, step-by-step dialogue.
 
